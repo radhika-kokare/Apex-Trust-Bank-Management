@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Transfer";
+    Layout = "_Layout";
+}
+
+<h4 class="mb-3">Transfer Amount</h4>
+
+<div class="card p-4 col-md-6">
+    <div class="mb-3">
+        <label class="form-label">From Account</label>
+        <input type="text" class="form-control" id="fromAccount" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">To Account</label>
+        <input type="text" class="form-control" id="toAccount" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Amount</label>
+        <input type="number" class="form-control" id="amount" />
+    </div>
+
+    <button class="btn btn-primary w-100" onclick="transferAmount()">
+        Transfer
+    </button>
+</div>
+
+@section Scripts {
+    <script src="~/js/transaction.js" asp-append-version="true"></script>
+}

@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Helpers\bin\Debug\net6.0\ApexTrustBank.Helpers.deps.json
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Helpers\bin\Debug\net6.0\ApexTrustBank.Helpers.dll
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Helpers\bin\Debug\net6.0\ApexTrustBank.Helpers.pdb
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Helpers\obj\Debug\net6.0\ApexTrustBank.Helpers.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Helpers\obj\Debug\net6.0\ApexTrustBank.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Helpers\obj\Debug\net6.0\ApexTrustBank.Helpers.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Helpers\obj\Debug\net6.0\ApexTrustBank.Helpers.AssemblyInfo.cs
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Helpers\obj\Debug\net6.0\ApexTrustBank.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Helpers\obj\Debug\net6.0\ApexTrustBank.Helpers.dll
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Helpers\obj\Debug\net6.0\refint\ApexTrustBank.Helpers.dll
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Helpers\obj\Debug\net6.0\ApexTrustBank.Helpers.pdb
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Helpers\obj\Debug\net6.0\ref\ApexTrustBank.Helpers.dll

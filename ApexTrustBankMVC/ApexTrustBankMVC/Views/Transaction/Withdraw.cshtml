@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Withdraw";
+    Layout = "_Layout";
+}
+
+<h4 class="mb-3">Withdraw Amount</h4>
+
+<div class="card p-4 col-md-5">
+    <div class="mb-3">
+        <label for="AccountNumber" class="form-label">Account Number</label>
+        <input type="text" class="form-control" id="AccountNumber" />
+    </div>
+
+    <div class="mb-3">
+        <label for="Amount" class="form-label">Amount</label>
+        <input type="number" class="form-control" id="Amount" />
+    </div>
+    <button type="button" class="btn btn-danger w-100" onclick="withdrawAmount()">
+        Withdraw
+    </button>
+
+</div>
+
+@section Scripts {
+    <script src="~/js/transaction.js" asp-append-version="true"></script>
+}

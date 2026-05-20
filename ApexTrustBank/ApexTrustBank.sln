@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApexTrustBank.BLL", "ApexTrustBank.BLL\ApexTrustBank.BLL.csproj", "{AD7BA767-F900-4AC1-ABBA-4044AAD5950B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApexTrustBank.DAL", "ApexTrustBank.DLL\ApexTrustBank.DAL.csproj", "{1506784E-00B0-4404-AABC-B3188EBDBDD2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApexTrustBank.API", "ApexTrustBank.API\ApexTrustBank.API.csproj", "{6BF910AE-2578-4C82-A706-61F692AED195}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApexTrustBank.Models", "ApexTrustBank.Models\ApexTrustBank.Models.csproj", "{F2DF05E0-BA9F-4667-94CF-D3284A2CFDB1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApexTrustBank.Helpers", "ApexTrustBank.Helpers\ApexTrustBank.Helpers.csproj", "{FBD0DAA5-D983-4E83-A06C-C2F0A9790A45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApexTrustBankMVC", "..\ApexTrustBankMVC\ApexTrustBankMVC\ApexTrustBankMVC.csproj", "{3AA22E45-F548-4E36-9EE3-811D2D08AC4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD7BA767-F900-4AC1-ABBA-4044AAD5950B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7BA767-F900-4AC1-ABBA-4044AAD5950B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7BA767-F900-4AC1-ABBA-4044AAD5950B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7BA767-F900-4AC1-ABBA-4044AAD5950B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1506784E-00B0-4404-AABC-B3188EBDBDD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1506784E-00B0-4404-AABC-B3188EBDBDD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1506784E-00B0-4404-AABC-B3188EBDBDD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1506784E-00B0-4404-AABC-B3188EBDBDD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BF910AE-2578-4C82-A706-61F692AED195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF910AE-2578-4C82-A706-61F692AED195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF910AE-2578-4C82-A706-61F692AED195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF910AE-2578-4C82-A706-61F692AED195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2DF05E0-BA9F-4667-94CF-D3284A2CFDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2DF05E0-BA9F-4667-94CF-D3284A2CFDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2DF05E0-BA9F-4667-94CF-D3284A2CFDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2DF05E0-BA9F-4667-94CF-D3284A2CFDB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBD0DAA5-D983-4E83-A06C-C2F0A9790A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD0DAA5-D983-4E83-A06C-C2F0A9790A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD0DAA5-D983-4E83-A06C-C2F0A9790A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD0DAA5-D983-4E83-A06C-C2F0A9790A45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AA22E45-F548-4E36-9EE3-811D2D08AC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA22E45-F548-4E36-9EE3-811D2D08AC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA22E45-F548-4E36-9EE3-811D2D08AC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA22E45-F548-4E36-9EE3-811D2D08AC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB2026FF-B8F3-4F9D-82B2-C4BB4E20E27D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,471 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DF05E0-BA9F-4667-94CF-D3284A2CFDB1}|ApexTrustBank.Models\\ApexTrustBank.Models.csproj|d:\\apex trust bank 16 jan2026\\apextrustbank\\apextrustbank.models\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DF05E0-BA9F-4667-94CF-D3284A2CFDB1}|ApexTrustBank.Models\\ApexTrustBank.Models.csproj|solutionrelative:apextrustbank.models\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DF05E0-BA9F-4667-94CF-D3284A2CFDB1}|ApexTrustBank.Models\\ApexTrustBank.Models.csproj|d:\\apex trust bank 16 jan2026\\apextrustbank\\apextrustbank.models\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DF05E0-BA9F-4667-94CF-D3284A2CFDB1}|ApexTrustBank.Models\\ApexTrustBank.Models.csproj|solutionrelative:apextrustbank.models\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF910AE-2578-4C82-A706-61F692AED195}|ApexTrustBank.API\\ApexTrustBank.API.csproj|d:\\apex trust bank 16 jan2026\\apextrustbank\\apextrustbank.api\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF910AE-2578-4C82-A706-61F692AED195}|ApexTrustBank.API\\ApexTrustBank.API.csproj|solutionrelative:apextrustbank.api\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7BA767-F900-4AC1-ABBA-4044AAD5950B}|ApexTrustBank.BLL\\ApexTrustBank.BLL.csproj|d:\\apex trust bank 16 jan2026\\apextrustbank\\apextrustbank.bll\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7BA767-F900-4AC1-ABBA-4044AAD5950B}|ApexTrustBank.BLL\\ApexTrustBank.BLL.csproj|solutionrelative:apextrustbank.bll\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1506784E-00B0-4404-AABC-B3188EBDBDD2}|ApexTrustBank.DLL\\ApexTrustBank.DAL.csproj|d:\\apex trust bank 16 jan2026\\apextrustbank\\apextrustbank.dll\\repository\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1506784E-00B0-4404-AABC-B3188EBDBDD2}|ApexTrustBank.DLL\\ApexTrustBank.DAL.csproj|solutionrelative:apextrustbank.dll\\repository\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7BA767-F900-4AC1-ABBA-4044AAD5950B}|ApexTrustBank.BLL\\ApexTrustBank.BLL.csproj|d:\\apex trust bank 16 jan2026\\apextrustbank\\apextrustbank.bll\\dtos\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7BA767-F900-4AC1-ABBA-4044AAD5950B}|ApexTrustBank.BLL\\ApexTrustBank.BLL.csproj|solutionrelative:apextrustbank.bll\\dtos\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7BA767-F900-4AC1-ABBA-4044AAD5950B}|ApexTrustBank.BLL\\ApexTrustBank.BLL.csproj|d:\\apex trust bank 16 jan2026\\apextrustbank\\apextrustbank.bll\\dtos\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7BA767-F900-4AC1-ABBA-4044AAD5950B}|ApexTrustBank.BLL\\ApexTrustBank.BLL.csproj|solutionrelative:apextrustbank.bll\\dtos\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7BA767-F900-4AC1-ABBA-4044AAD5950B}|ApexTrustBank.BLL\\ApexTrustBank.BLL.csproj|d:\\apex trust bank 16 jan2026\\apextrustbank\\apextrustbank.bll\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7BA767-F900-4AC1-ABBA-4044AAD5950B}|ApexTrustBank.BLL\\ApexTrustBank.BLL.csproj|solutionrelative:apextrustbank.bll\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF910AE-2578-4C82-A706-61F692AED195}|ApexTrustBank.API\\ApexTrustBank.API.csproj|d:\\apex trust bank 16 jan2026\\apextrustbank\\apextrustbank.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF910AE-2578-4C82-A706-61F692AED195}|ApexTrustBank.API\\ApexTrustBank.API.csproj|solutionrelative:apextrustbank.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7BA767-F900-4AC1-ABBA-4044AAD5950B}|ApexTrustBank.BLL\\ApexTrustBank.BLL.csproj|d:\\apex trust bank 16 jan2026\\apextrustbank\\apextrustbank.bll\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7BA767-F900-4AC1-ABBA-4044AAD5950B}|ApexTrustBank.BLL\\ApexTrustBank.BLL.csproj|solutionrelative:apextrustbank.bll\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1506784E-00B0-4404-AABC-B3188EBDBDD2}|ApexTrustBank.DLL\\ApexTrustBank.DAL.csproj|d:\\apex trust bank 16 jan2026\\apextrustbank\\apextrustbank.dll\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1506784E-00B0-4404-AABC-B3188EBDBDD2}|ApexTrustBank.DLL\\ApexTrustBank.DAL.csproj|solutionrelative:apextrustbank.dll\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA22E45-F548-4E36-9EE3-811D2D08AC4F}|..\\ApexTrustBankMVC\\ApexTrustBankMVC\\ApexTrustBankMVC.csproj|d:\\apex trust bank 16 jan2026\\apextrustbankmvc\\apextrustbankmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7BA767-F900-4AC1-ABBA-4044AAD5950B}|ApexTrustBank.BLL\\ApexTrustBank.BLL.csproj|d:\\apex trust bank 16 jan2026\\apextrustbank\\apextrustbank.bll\\dtos\\depositdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7BA767-F900-4AC1-ABBA-4044AAD5950B}|ApexTrustBank.BLL\\ApexTrustBank.BLL.csproj|solutionrelative:apextrustbank.bll\\dtos\\depositdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA22E45-F548-4E36-9EE3-811D2D08AC4F}|..\\ApexTrustBankMVC\\ApexTrustBankMVC\\ApexTrustBankMVC.csproj|d:\\apex trust bank 16 jan2026\\apextrustbankmvc\\apextrustbankmvc\\wwwroot\\js\\transaction.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA22E45-F548-4E36-9EE3-811D2D08AC4F}|..\\ApexTrustBankMVC\\ApexTrustBankMVC\\ApexTrustBankMVC.csproj|d:\\apex trust bank 16 jan2026\\apextrustbankmvc\\apextrustbankmvc\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA22E45-F548-4E36-9EE3-811D2D08AC4F}|..\\ApexTrustBankMVC\\ApexTrustBankMVC\\ApexTrustBankMVC.csproj|d:\\apex trust bank 16 jan2026\\apextrustbankmvc\\apextrustbankmvc\\wwwroot\\js\\account.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DF05E0-BA9F-4667-94CF-D3284A2CFDB1}|ApexTrustBank.Models\\ApexTrustBank.Models.csproj|d:\\apex trust bank 16 jan2026\\apextrustbank\\apextrustbank.models\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DF05E0-BA9F-4667-94CF-D3284A2CFDB1}|ApexTrustBank.Models\\ApexTrustBank.Models.csproj|solutionrelative:apextrustbank.models\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DF05E0-BA9F-4667-94CF-D3284A2CFDB1}|ApexTrustBank.Models\\ApexTrustBank.Models.csproj|d:\\apex trust bank 16 jan2026\\apextrustbank\\apextrustbank.models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DF05E0-BA9F-4667-94CF-D3284A2CFDB1}|ApexTrustBank.Models\\ApexTrustBank.Models.csproj|solutionrelative:apextrustbank.models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA22E45-F548-4E36-9EE3-811D2D08AC4F}|..\\ApexTrustBankMVC\\ApexTrustBankMVC\\ApexTrustBankMVC.csproj|d:\\apex trust bank 16 jan2026\\apextrustbankmvc\\apextrustbankmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DF05E0-BA9F-4667-94CF-D3284A2CFDB1}|ApexTrustBank.Models\\ApexTrustBank.Models.csproj|d:\\apex trust bank 16 jan2026\\apextrustbank\\apextrustbank.models\\models\\apextrustbankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DF05E0-BA9F-4667-94CF-D3284A2CFDB1}|ApexTrustBank.Models\\ApexTrustBank.Models.csproj|solutionrelative:apextrustbank.models\\models\\apextrustbankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA22E45-F548-4E36-9EE3-811D2D08AC4F}|..\\ApexTrustBankMVC\\ApexTrustBankMVC\\ApexTrustBankMVC.csproj|d:\\apex trust bank 16 jan2026\\apextrustbankmvc\\apextrustbankmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF910AE-2578-4C82-A706-61F692AED195}|ApexTrustBank.API\\ApexTrustBank.API.csproj|d:\\apex trust bank 16 jan2026\\apextrustbank\\apextrustbank.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BF910AE-2578-4C82-A706-61F692AED195}|ApexTrustBank.API\\ApexTrustBank.API.csproj|solutionrelative:apextrustbank.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF910AE-2578-4C82-A706-61F692AED195}|ApexTrustBank.API\\ApexTrustBank.API.csproj|d:\\apex trust bank 16 jan2026\\apextrustbank\\apextrustbank.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF910AE-2578-4C82-A706-61F692AED195}|ApexTrustBank.API\\ApexTrustBank.API.csproj|solutionrelative:apextrustbank.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA22E45-F548-4E36-9EE3-811D2D08AC4F}|..\\ApexTrustBankMVC\\ApexTrustBankMVC\\ApexTrustBankMVC.csproj|d:\\apex trust bank 16 jan2026\\apextrustbankmvc\\apextrustbankmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA22E45-F548-4E36-9EE3-811D2D08AC4F}|..\\ApexTrustBankMVC\\ApexTrustBankMVC\\ApexTrustBankMVC.csproj|d:\\apex trust bank 16 jan2026\\apextrustbankmvc\\apextrustbankmvc\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA22E45-F548-4E36-9EE3-811D2D08AC4F}|..\\ApexTrustBankMVC\\ApexTrustBankMVC\\ApexTrustBankMVC.csproj|d:\\apex trust bank 16 jan2026\\apextrustbankmvc\\apextrustbankmvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA22E45-F548-4E36-9EE3-811D2D08AC4F}|..\\ApexTrustBankMVC\\ApexTrustBankMVC\\ApexTrustBankMVC.csproj|d:\\apex trust bank 16 jan2026\\apextrustbankmvc\\apextrustbankmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF910AE-2578-4C82-A706-61F692AED195}|ApexTrustBank.API\\ApexTrustBank.API.csproj|d:\\apex trust bank 16 jan2026\\apextrustbank\\apextrustbank.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF910AE-2578-4C82-A706-61F692AED195}|ApexTrustBank.API\\ApexTrustBank.API.csproj|solutionrelative:apextrustbank.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 196,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.API\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "ApexTrustBank.API\\Controllers\\TransactionsController.cs",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.API\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "ApexTrustBank.API\\Controllers\\TransactionsController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAArwFwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:26:16.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.BLL\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "ApexTrustBank.BLL\\Services\\TransactionService.cs",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.BLL\\Services\\TransactionService.cs",
+              "RelativeToolTip": "ApexTrustBank.BLL\\Services\\TransactionService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAArwCwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:26:16.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.DLL\\Repository\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "ApexTrustBank.DLL\\Repository\\TransactionRepository.cs",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.DLL\\Repository\\TransactionRepository.cs",
+              "RelativeToolTip": "ApexTrustBank.DLL\\Repository\\TransactionRepository.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAtwFYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:26:16.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.Models\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "ApexTrustBank.Models\\Models\\Transaction.cs",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.Models\\Models\\Transaction.cs",
+              "RelativeToolTip": "ApexTrustBank.Models\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:26:16.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.Models\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "ApexTrustBank.Models\\Models\\Account.cs",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.Models\\Models\\Account.cs",
+              "RelativeToolTip": "ApexTrustBank.Models\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:26:16.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionHistory.cs",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.BLL\\DTOs\\TransactionHistory.cs",
+              "RelativeDocumentMoniker": "ApexTrustBank.BLL\\DTOs\\TransactionHistory.cs",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.BLL\\DTOs\\TransactionHistory.cs",
+              "RelativeToolTip": "ApexTrustBank.BLL\\DTOs\\TransactionHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:26:16.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountDTO.cs",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.BLL\\DTOs\\AccountDTO.cs",
+              "RelativeDocumentMoniker": "ApexTrustBank.BLL\\DTOs\\AccountDTO.cs",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.BLL\\DTOs\\AccountDTO.cs",
+              "RelativeToolTip": "ApexTrustBank.BLL\\DTOs\\AccountDTO.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIA3wBwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:26:16.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.BLL\\DTOs\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "ApexTrustBank.BLL\\DTOs\\CustomerDTO.cs",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.BLL\\DTOs\\CustomerDTO.cs",
+              "RelativeToolTip": "ApexTrustBank.BLL\\DTOs\\CustomerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:26:16.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.API\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "ApexTrustBank.API\\Controllers\\AccountsController.cs",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.API\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "ApexTrustBank.API\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAWwBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:26:16.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.BLL\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "ApexTrustBank.BLL\\Services\\AccountService.cs",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.BLL\\Services\\AccountService.cs",
+              "RelativeToolTip": "ApexTrustBank.BLL\\Services\\AccountService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAArwBgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:26:16.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.DLL\\Repository\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "ApexTrustBank.DLL\\Repository\\AccountRepository.cs",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.DLL\\Repository\\AccountRepository.cs",
+              "RelativeToolTip": "ApexTrustBank.DLL\\Repository\\AccountRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAD4vxkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:26:16.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepositDTO.cs",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.BLL\\DTOs\\DepositDTO.cs",
+              "RelativeDocumentMoniker": "ApexTrustBank.BLL\\DTOs\\DepositDTO.cs",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.BLL\\DTOs\\DepositDTO.cs",
+              "RelativeToolTip": "ApexTrustBank.BLL\\DTOs\\DepositDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:26:16.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBankMVC\\ApexTrustBankMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\ApexTrustBankMVC\\ApexTrustBankMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBankMVC\\ApexTrustBankMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\ApexTrustBankMVC\\ApexTrustBankMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T12:26:16.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Transaction.js",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBankMVC\\ApexTrustBankMVC\\wwwroot\\js\\Transaction.js",
+              "RelativeDocumentMoniker": "..\\ApexTrustBankMVC\\ApexTrustBankMVC\\wwwroot\\js\\Transaction.js",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBankMVC\\ApexTrustBankMVC\\wwwroot\\js\\Transaction.js",
+              "RelativeToolTip": "..\\ApexTrustBankMVC\\ApexTrustBankMVC\\wwwroot\\js\\Transaction.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-20T12:26:16.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBankMVC\\ApexTrustBankMVC\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "..\\ApexTrustBankMVC\\ApexTrustBankMVC\\Models\\Account.cs",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBankMVC\\ApexTrustBankMVC\\Models\\Account.cs",
+              "RelativeToolTip": "..\\ApexTrustBankMVC\\ApexTrustBankMVC\\Models\\Account.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:26:16.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Account.js",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBankMVC\\ApexTrustBankMVC\\wwwroot\\js\\Account.js",
+              "RelativeDocumentMoniker": "..\\ApexTrustBankMVC\\ApexTrustBankMVC\\wwwroot\\js\\Account.js",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBankMVC\\ApexTrustBankMVC\\wwwroot\\js\\Account.js",
+              "RelativeToolTip": "..\\ApexTrustBankMVC\\ApexTrustBankMVC\\wwwroot\\js\\Account.js",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-20T12:26:16.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.Models\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "ApexTrustBank.Models\\DTOs\\LoginDTO.cs",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.Models\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "ApexTrustBank.Models\\DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:26:16.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBankMVC\\ApexTrustBankMVC\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ApexTrustBankMVC\\ApexTrustBankMVC\\Program.cs",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBankMVC\\ApexTrustBankMVC\\Program.cs",
+              "RelativeToolTip": "..\\ApexTrustBankMVC\\ApexTrustBankMVC\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:26:16.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBankMVC\\ApexTrustBankMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "..\\ApexTrustBankMVC\\ApexTrustBankMVC\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBankMVC\\ApexTrustBankMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "..\\ApexTrustBankMVC\\ApexTrustBankMVC\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:26:16.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterUserDTO.cs",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.Models\\DTOs\\RegisterUserDTO.cs",
+              "RelativeDocumentMoniker": "ApexTrustBank.Models\\DTOs\\RegisterUserDTO.cs",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.Models\\DTOs\\RegisterUserDTO.cs",
+              "RelativeToolTip": "ApexTrustBank.Models\\DTOs\\RegisterUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:26:16.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApexTrustBankDBContext.cs",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.Models\\Models\\ApexTrustBankDBContext.cs",
+              "RelativeDocumentMoniker": "ApexTrustBank.Models\\Models\\ApexTrustBankDBContext.cs",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.Models\\Models\\ApexTrustBankDBContext.cs",
+              "RelativeToolTip": "ApexTrustBank.Models\\Models\\ApexTrustBankDBContext.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:26:16.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ApexTrustBank.API\\appsettings.json",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.API\\appsettings.json",
+              "RelativeToolTip": "ApexTrustBank.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-20T12:26:16.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.API\\Program.cs",
+              "RelativeDocumentMoniker": "ApexTrustBank.API\\Program.cs",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.API\\Program.cs",
+              "RelativeToolTip": "ApexTrustBank.API\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:26:16.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBankMVC\\ApexTrustBankMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\ApexTrustBankMVC\\ApexTrustBankMVC\\appsettings.json",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBankMVC\\ApexTrustBankMVC\\appsettings.json",
+              "RelativeToolTip": "..\\ApexTrustBankMVC\\ApexTrustBankMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-20T12:26:16.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBankMVC\\ApexTrustBankMVC\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "..\\ApexTrustBankMVC\\ApexTrustBankMVC\\Controllers\\TransactionController.cs",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBankMVC\\ApexTrustBankMVC\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "..\\ApexTrustBankMVC\\ApexTrustBankMVC\\Controllers\\TransactionController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:26:16.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBankMVC\\ApexTrustBankMVC\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "..\\ApexTrustBankMVC\\ApexTrustBankMVC\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBankMVC\\ApexTrustBankMVC\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "..\\ApexTrustBankMVC\\ApexTrustBankMVC\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:26:16.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBankMVC\\ApexTrustBankMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\ApexTrustBankMVC\\ApexTrustBankMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBankMVC\\ApexTrustBankMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\ApexTrustBankMVC\\ApexTrustBankMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:26:16.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.API\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ApexTrustBank.API\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Apex Trust Bank 16 jan2026\\ApexTrustBank\\ApexTrustBank.API\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ApexTrustBank.API\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:26:16.443Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

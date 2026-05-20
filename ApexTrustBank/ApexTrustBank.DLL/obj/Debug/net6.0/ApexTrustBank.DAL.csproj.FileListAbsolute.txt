@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.DLL\bin\Debug\net6.0\ApexTrustBank.DAL.deps.json
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.DLL\bin\Debug\net6.0\ApexTrustBank.DAL.runtimeconfig.json
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.DLL\bin\Debug\net6.0\ApexTrustBank.DAL.dll
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.DLL\bin\Debug\net6.0\ApexTrustBank.DAL.pdb
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.DLL\bin\Debug\net6.0\ApexTrustBank.Models.dll
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.DLL\bin\Debug\net6.0\ApexTrustBank.Models.pdb
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.DLL\obj\Debug\net6.0\ApexTrustBank.DAL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.DLL\obj\Debug\net6.0\ApexTrustBank.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.DLL\obj\Debug\net6.0\ApexTrustBank.DAL.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.DLL\obj\Debug\net6.0\ApexTrustBank.DAL.AssemblyInfo.cs
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.DLL\obj\Debug\net6.0\ApexTrustBank.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.DLL\obj\Debug\net6.0\ApexTrus.3B36C59D.Up2Date
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.DLL\obj\Debug\net6.0\ApexTrustBank.DAL.dll
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.DLL\obj\Debug\net6.0\refint\ApexTrustBank.DAL.dll
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.DLL\obj\Debug\net6.0\ApexTrustBank.DAL.pdb
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.DLL\obj\Debug\net6.0\ApexTrustBank.DAL.genruntimeconfig.cache
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.DLL\obj\Debug\net6.0\ref\ApexTrustBank.DAL.dll

@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Models\bin\Debug\net6.0\ApexTrustBank.Models.deps.json
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Models\bin\Debug\net6.0\ApexTrustBank.Models.runtimeconfig.json
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Models\bin\Debug\net6.0\ApexTrustBank.Models.dll
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Models\bin\Debug\net6.0\ApexTrustBank.Models.pdb
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Models\obj\Debug\net6.0\ApexTrustBank.Models.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Models\obj\Debug\net6.0\ApexTrustBank.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Models\obj\Debug\net6.0\ApexTrustBank.Models.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Models\obj\Debug\net6.0\ApexTrustBank.Models.AssemblyInfo.cs
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Models\obj\Debug\net6.0\ApexTrustBank.Models.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Models\obj\Debug\net6.0\ApexTrustBank.Models.dll
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Models\obj\Debug\net6.0\refint\ApexTrustBank.Models.dll
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Models\obj\Debug\net6.0\ApexTrustBank.Models.pdb
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Models\obj\Debug\net6.0\ApexTrustBank.Models.genruntimeconfig.cache
+C:\Users\HP\Desktop\SupraaRadha\Apex Trust Bank 16 jan2026\ApexTrustBank\ApexTrustBank.Models\obj\Debug\net6.0\ref\ApexTrustBank.Models.dll

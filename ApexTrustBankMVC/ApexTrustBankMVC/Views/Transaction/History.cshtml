@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Transaction History";
+    Layout = "_Layout";
+}
+
+<h4 class="mb-3">Transaction History</h4>
+
+<table class="table table-bordered table-striped" id="historyTable">
+    <thead class="table-dark">
+        <tr>
+            <th>TransactionDate</th>
+            <th>Account No</th>
+            <th>TransactionType</th>
+            <th>Amount</th>
+            <th>Balance</th>
+        </tr>
+    </thead>
+    <tbody>
+       
+    </tbody>
+</table>
+
+@section Scripts {
+    <script src="~/js/transaction.js" asp-append-version="true"></script>
+}

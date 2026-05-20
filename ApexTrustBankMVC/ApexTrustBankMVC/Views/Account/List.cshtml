@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Account List";
+    Layout = "_Layout";
+}
+
+<h4>Account List</h4>
+
+<input type="text"
+       class="form-control mb-3"
+       placeholder="Search..."
+       id="searchBox" />
+
+<table class="table table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>Account No</th>
+            <th>Full Name</th>
+            <th>Email</th>
+            <th>Mobile</th>
+            <th>Account Type</th>
+            <th>Balance</th>
+        </tr>
+    </thead>
+    <tbody id="accountTableBody">
+      
+    </tbody>
+</table>
+
+@section Scripts {
+    <script src="~/js/Account.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            loadAccounts();
+        });
+    </script>
+}

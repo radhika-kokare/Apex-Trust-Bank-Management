@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Deposit";
+}
+
+<h4>Deposit Amount</h4>
+
+<div class="card p-4 col-md-5">
+    <div class="mb-3">
+        <label>Account Number</label>
+        <input id="AccountNumber" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Amount</label>
+        <input id="Amount" type="number" class="form-control" />
+    </div>
+
+    <button type="button"
+            class="btn btn-success"
+            onclick="depositAmount()">
+        Deposit
+    </button>
+</div>
+
+    @section Scripts {
+        <script src="~/js/transaction.js" asp-append-version="true"></script>
+    }

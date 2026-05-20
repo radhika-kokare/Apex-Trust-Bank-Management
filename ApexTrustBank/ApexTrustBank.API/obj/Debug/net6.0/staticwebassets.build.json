@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OC3odz7dU8wVelMfl7eQqCjXw3K4cfrelV3kNXoFU2o=",
+  "Source": "ApexTrustBank.API",
+  "BasePath": "_content/ApexTrustBank.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
